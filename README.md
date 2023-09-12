@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dexter Lente</h1>
-<h3 align="center">A business administration graduate with an MBA degree currently transitioning into fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterlente&label=Profile%20views&color=0e75b6&style=flat" alt="dexterlente" /> </p>
 
