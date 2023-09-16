@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dexterlente&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dexterlente&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterlente&label=Profile%20views&color=0e75b6&style=flat" alt="dexterlente" /> </p>
 
 <p align="left">
