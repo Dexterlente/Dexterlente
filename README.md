@@ -6,6 +6,7 @@
   tract+apps;Python+%7C+TypeScript+%7C+Solidity+%7C+Go;Always+shipping%2C+always+learning" alt="Typing SVG" />
   </p>
 
+  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dexterlente&label=Profile%20views&color=A855F7&style=flat" alt="dexterlente" />
   </p>
