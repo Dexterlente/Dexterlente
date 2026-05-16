@@ -2,9 +2,9 @@
   <h3 align="center">Full-stack & Web3 engineer from the Philippines</h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+full-stack+%26+smart+con
-  tract+apps;Python+%7C+TypeScript+%7C+Solidity+%7C+Go;Always+shipping%2C+always+learning" alt="Typing SVG" />
-  </p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+full-stack+%26+smart+c
+  ontract+apps;Python+%7C+TypeScript+%7C+Solidity+%7C+Go;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    </p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dexterlente&label=Profile%20views&color=A855F7&style=flat" alt="dexterlente" />
