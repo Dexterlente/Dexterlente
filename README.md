@@ -2,12 +2,12 @@
   <h3 align="center">Full-stack & Web3 engineer from the Philippines</h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&width=600&lines=Building+full-stack+%26+smart+contract+apps;
-  Python+%E2%80%A2+TypeScript+%E2%80%A2+Solidity+%E2%80%A2+Go;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+full-stack+%26+smart+con
+  tract+apps;Python+%7C+TypeScript+%7C+Solidity+%7C+Go;Always+shipping%2C+always+learning" alt="Typing SVG" />
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dexterlente&label=Profile%20views&color=0e75b6&style=flat" alt="dexterlente" />
+    <img src="https://komarev.com/ghpvc/?username=dexterlente&label=Profile%20views&color=A855F7&style=flat" alt="dexterlente" />
   </p>
 
   ---
@@ -23,16 +23,20 @@
   ### 📊 GitHub Stats
 
   <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dexterlente&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img height="170" src="https://streak-stats.demolab.com?user=Dexterlente&theme=tokyonight&hide_border=true&exclude_days=Sat" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dexterlente&theme=radical" />
   </p>
 
   <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexterlente&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+    <img height="170" src="https://streak-stats.demolab.com?user=Dexterlente&theme=radical&hide_border=true&exclude_days=Sat" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dexterlente&theme=radical" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dexterlente&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexterlente&theme=midnight-purple&hide_border=true&area=true" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dexterlente&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
   </p>
 
   ---
@@ -112,6 +116,7 @@
   ### 📫 Connect
 
   <p align="left">
-    <a href="mailto:dexter.lente18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-    <a href="https://github.com/Dexterlente"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+    <a href="mailto:dexter.lente18@gmail.com"><img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+    <a href="https://github.com/Dexterlente"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
   </p>
+
