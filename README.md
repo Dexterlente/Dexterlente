@@ -34,10 +34,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexterlente&theme=midnight-purple&hide_border=true&area=true" />
   </p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dexterlente&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
-  </p>
-
   ---
 
   ### 🛠️  Languages & Tools
