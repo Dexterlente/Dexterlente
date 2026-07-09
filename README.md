@@ -26,7 +26,7 @@
   </p>
 
   <p align="center">
-    <img height="170" src="https://streak-stats.demolab.com?user=Dexterlente&theme=radical&hide_border=true&exclude_days=Sat" />
+    <img  height="170" src="https://streak-stats.demolab.com?user=Dexterlente&amp;theme=radical&amp;hide_border=true&amp;cache_seconds=86400" alt="GitHub Streak" />
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dexterlente&theme=radical" />
   </p>
 
