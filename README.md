@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Dexterlente&label=Profile%20views&color=A855F7&style=flat" alt="Dexterlente" />
 </p>
 
-<p align="center">
-  ⚙️ <b>What I do most:</b> high-throughput <b>time-series data</b> — migrating &amp; syncing between <b>ClickHouse</b> and <b>TimescaleDB</b>, and building ingestion/backfill pipelines for real-time market data.
-</p>
-
 ---
 
 ### 🧠 About Me
