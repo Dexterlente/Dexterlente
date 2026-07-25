@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header" width="100%" alt="" />
+
 <table>
 <tr>
 <td valign="middle">
@@ -66,7 +68,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexterlente&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dexterlente/Dexterlente/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dexterlente/Dexterlente/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -103,6 +108,7 @@
 <p align="center">
   <a href="mailto:dexter.lente18@gmail.com"><img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
   <a href="https://github.com/Dexterlente"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://x.com/dexterlente"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=110&section=footer" width="100%" alt="" />
