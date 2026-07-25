@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Dexterlente&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2" alt="GitHub streak" />
+  <img height="170" src="profile-summary-card-output/streak.svg" alt="GitHub streak" />
   <img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 </p>
 
