@@ -25,7 +25,7 @@ jobs:
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: "user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true"
+          options: "user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true"
           path: profile-summary-card-output/streak.svg
           token: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
 
